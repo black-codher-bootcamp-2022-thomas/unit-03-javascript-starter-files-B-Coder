@@ -27,4 +27,4 @@ function getGrade (total) {
     
 }
 
-console.log(getGrade(45));
+console.log(getGrade(54)); 
